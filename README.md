@@ -6,4 +6,8 @@ This repository contains the portfoilo some of my machine learning projects for 
 2. Run the .ipynb file in jupyter notebook locally or colab for the best presentation.
 3. The dataset will eith be attached in a dataset subdirectory of each project or the information on how to load or download it be given in the notebook.
      
+## Contect
+
+- ### Computer Vision
+     - **[EMNIST_Word_Predictor](https://github.com/Mat-thias/Machine_Learning_Portfoilo/EMNIST_Word_Predictor)** is a computer vision project that predicts single-line words with up to 5 characters using the EMNIST balanced dataset. The models first predict the number of characters in the word and then use separate CNN architectures to predict individual characters. The project achieves an average individual character prediction accuracy of about 85.7%, with a character counter model achieving 100% accuracy in predicting the number of characters. Some errors occur due to similarities between certain characters, resulting in the overall accuracy of approximately 85.7%.
 
