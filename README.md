@@ -13,3 +13,6 @@ This repository contains the portfoilo some of my machine learning projects for 
 
 - ### Courses
      - **[DeepLearning.AI TensorFlow Developer Professional Certificate](https://github.com/Mat-thias/Machine_Learning_Portfoilo/)** showcases projects and assignments completed during the [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice) Specialization. From image classification to generative models, explore my deep learning journey with TensorFlow.
+ 
+- ### Machine Learning
+     - **[Date Fruit Classification](https://github.com/Mat-thias/CSAAfrica22/tree/main/CSAAfrica22/Project)** uses computer vision and machine learning to classify 7 types of date fruits. The team employed K Nearest Neighbor and Random Forest models on a dataset of 898 images, extracting morphological features. The project's code and explanations can be found in the repository.
